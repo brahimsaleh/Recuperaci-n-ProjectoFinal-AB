@@ -1,0 +1,157 @@
+header{
+    width:100%;
+    background-image: url("./img/Diseño\ sin\ título.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    height:100vh;
+    position: relative;
+    }
+    
+    nav{
+    
+        height:5vh;
+        background-color: rgb(226, 211, 211);
+        position:relative;
+        display:flex
+    
+    }
+    
+    .logo{
+        margin-left:2%;
+        width:7%;
+        position:relative;
+        display:flex;
+        justify-content:right;
+        }
+     .navbar{
+        width:70%;
+        margin-right:20%;
+        display:flex;
+        justify-content:right;
+    
+     }
+     .navbar a{
+        font-family: sans-serif;
+        color: rgb(35, 23, 23);
+        text-decoration: none;
+        margin-left:5em;
+        font-size: 2em;
+        padding-top: 0%;
+        display: flex;
+        justify-content: space between;
+    
+    
+    
+     }
+    
+    
+     .texto-header{
+       color: rgb(249, 128, 0);
+       position: absolute;
+       left: 5%;
+       bottom: 10%;
+       text-align: left;
+       font-family: sans-serif;
+       font-size: 1em;
+    }
+    
+    .texto-header a{
+       text-decoration: none;
+       color: white;
+       background-color: rgb(165, 42, 42);
+       display: inline-block;
+       height: 2em;
+       width: 7em;
+       padding-top: 0.5em;
+       border: 1px solid white;
+       border-radius: 39px;
+    }
+    
+    .tendencias{
+       width: 100%;
+       
+    }
+    
+    .tendencias article{
+       width: 90%;
+       height: 40vh;
+      
+       display: flex;
+       justify-content:space-evenly;
+    
+    
+    
+    
+     
+       
+       
+    }
+    
+    footer{
+       margin-top: 100px;
+    }
+    
+    
+    
+    .masvendido{
+       width:100%;
+       display:flex;
+       justify-content:space-evenly;
+       
+    }
+    
+    .masvendido article{
+       width:20%;
+       height:60vh;
+       
+       position:relative;
+      
+       border-radius: 25%;
+    }
+    
+    .masvendido article img{
+       width: 100%;
+       padding-top: 0;
+       border-radius: 50%;
+    }
+    
+    .textotendencias{
+       text-align:center;
+       width:100%;
+       display:block;
+    }
+    
+    
+    
+    
+    
+    
+    .tendencias{
+       width:100%;
+       display:flex;
+       justify-content:space-evenly;
+       
+    }
+    
+    .tendencias article{
+       width:20%;
+       height:60vh;
+       
+       position:relative;
+       
+       border-radius: 25%;
+       
+    }
+    
+    .tendencias article img{
+       width: 100%;
+       padding-top: 0;
+       border-radius: 50%;
+    }
+    
+    
+ 
+ 
+ 
+ 
